@@ -14,4 +14,4 @@
 
 ## Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=erma0/douyin&type=Date)](https://star-history.com/#erma0/douyin&Date)
+[![Star History Chart](https://star-history.dera.page/svg?repos=erma0/douyin&type=Date)](https://star-history.dera.page/#erma0/douyin&Date)
